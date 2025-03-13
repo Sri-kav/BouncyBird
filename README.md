@@ -1,18 +1,16 @@
-## Getting Started
+          🐦 BOUNCY BIRD
+_____________________________
+     A simple Flappy Bird clone made in Java! Fly the bird through obstacles, score points, and challenge yourself
+     to get the highest score. 🚀
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+FEATURES ✨
 
-## Folder Structure
+✅ Smooth physics-based gameplay
 
-The workspace contains two folders by default, where:
+✅ Classic side-scrolling experience
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+✅ Score tracking system
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+✅ Simple but addictive mechanics
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+✅ Fun pixel-art graphics
